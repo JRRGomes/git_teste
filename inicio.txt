@@ -1,2 +1,4 @@
 Hello World!
-Bom dia, bem vindos ao curso de frontent da Estação Hack
+Bom dia, bem vindos ao curso de frontent da Estação Hack.
+
+Meu nome é Jeff, tenho 28 anos.
